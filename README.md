@@ -1,6 +1,6 @@
 # Tokyo-Olympics-Azure-Data-Engineering-Project
 The main objective is to ingest raw Olympic data, perform transformations to generate meaningful insights, and analyze the processed data using Azure Synapse Analytics. This project demonstrates the real-world application of cloud-based data engineering tools to handle large-scale structured data efficiently.
-Here’s the professional version of that content without emojis and with a formal tone, suitable for a GitHub README or your resume:
+
 
 ### Key Features
 
